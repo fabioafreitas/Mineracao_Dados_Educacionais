@@ -1,0 +1,751 @@
+"","nome_municipio","num_habilidade","ch.total","lc.total","mt.total","cn.total","ch.acertos","lc.acertos","mt.acertos","cn.acertos","ch.acuracia","lc.acuracia","mt.acuracia","cn.acuracia"
+"1","Barreiros",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"2","Barreiros",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"3","Barreiros",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"4","Barreiros",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"5","Barreiros",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"6","Barreiros",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"7","Barreiros",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"8","Barreiros",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"9","Barreiros",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"10","Barreiros",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"11","Barreiros",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"12","Barreiros",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"13","Barreiros",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"14","Barreiros",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"15","Barreiros",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"16","Barreiros",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"17","Barreiros",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"18","Barreiros",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"19","Barreiros",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"20","Barreiros",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"21","Barreiros",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"22","Barreiros",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"23","Barreiros",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"24","Barreiros",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"25","Barreiros",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"26","Barreiros",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"27","Barreiros",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"28","Barreiros",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"29","Barreiros",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"30","Barreiros",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"31","Bezerros",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"32","Bezerros",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"33","Bezerros",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"34","Bezerros",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"35","Bezerros",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"36","Bezerros",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"37","Bezerros",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"38","Bezerros",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"39","Bezerros",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"40","Bezerros",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"41","Bezerros",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"42","Bezerros",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"43","Bezerros",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"44","Bezerros",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"45","Bezerros",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"46","Bezerros",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"47","Bezerros",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"48","Bezerros",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"49","Bezerros",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"50","Bezerros",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"51","Bezerros",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"52","Bezerros",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"53","Bezerros",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"54","Bezerros",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"55","Bezerros",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"56","Bezerros",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"57","Bezerros",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"58","Bezerros",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"59","Bezerros",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"60","Bezerros",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"61","Brejo da Madre de Deus",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"62","Brejo da Madre de Deus",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"63","Brejo da Madre de Deus",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"64","Brejo da Madre de Deus",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"65","Brejo da Madre de Deus",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"66","Brejo da Madre de Deus",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"67","Brejo da Madre de Deus",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"68","Brejo da Madre de Deus",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"69","Brejo da Madre de Deus",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"70","Brejo da Madre de Deus",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"71","Brejo da Madre de Deus",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"72","Brejo da Madre de Deus",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"73","Brejo da Madre de Deus",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"74","Brejo da Madre de Deus",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"75","Brejo da Madre de Deus",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"76","Brejo da Madre de Deus",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"77","Brejo da Madre de Deus",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"78","Brejo da Madre de Deus",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"79","Brejo da Madre de Deus",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"80","Brejo da Madre de Deus",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"81","Brejo da Madre de Deus",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"82","Brejo da Madre de Deus",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"83","Brejo da Madre de Deus",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"84","Brejo da Madre de Deus",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"85","Brejo da Madre de Deus",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"86","Brejo da Madre de Deus",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"87","Brejo da Madre de Deus",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"88","Brejo da Madre de Deus",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"89","Brejo da Madre de Deus",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"90","Brejo da Madre de Deus",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"91","Cabo de Santo Agostinho",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"92","Cabo de Santo Agostinho",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"93","Cabo de Santo Agostinho",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"94","Cabo de Santo Agostinho",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"95","Cabo de Santo Agostinho",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"96","Cabo de Santo Agostinho",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"97","Cabo de Santo Agostinho",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"98","Cabo de Santo Agostinho",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"99","Cabo de Santo Agostinho",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"100","Cabo de Santo Agostinho",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"101","Cabo de Santo Agostinho",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"102","Cabo de Santo Agostinho",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"103","Cabo de Santo Agostinho",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"104","Cabo de Santo Agostinho",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"105","Cabo de Santo Agostinho",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"106","Cabo de Santo Agostinho",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"107","Cabo de Santo Agostinho",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"108","Cabo de Santo Agostinho",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"109","Cabo de Santo Agostinho",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"110","Cabo de Santo Agostinho",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"111","Cabo de Santo Agostinho",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"112","Cabo de Santo Agostinho",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"113","Cabo de Santo Agostinho",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"114","Cabo de Santo Agostinho",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"115","Cabo de Santo Agostinho",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"116","Cabo de Santo Agostinho",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"117","Cabo de Santo Agostinho",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"118","Cabo de Santo Agostinho",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"119","Cabo de Santo Agostinho",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"120","Cabo de Santo Agostinho",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"121","Camaragibe",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"122","Camaragibe",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"123","Camaragibe",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"124","Camaragibe",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"125","Camaragibe",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"126","Camaragibe",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"127","Camaragibe",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"128","Camaragibe",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"129","Camaragibe",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"130","Camaragibe",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"131","Camaragibe",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"132","Camaragibe",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"133","Camaragibe",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"134","Camaragibe",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"135","Camaragibe",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"136","Camaragibe",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"137","Camaragibe",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"138","Camaragibe",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"139","Camaragibe",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"140","Camaragibe",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"141","Camaragibe",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"142","Camaragibe",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"143","Camaragibe",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"144","Camaragibe",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"145","Camaragibe",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"146","Camaragibe",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"147","Camaragibe",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"148","Camaragibe",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"149","Camaragibe",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"150","Camaragibe",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"151","Camutanga",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"152","Camutanga",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"153","Camutanga",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"154","Camutanga",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"155","Camutanga",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"156","Camutanga",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"157","Camutanga",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"158","Camutanga",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"159","Camutanga",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"160","Camutanga",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"161","Camutanga",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"162","Camutanga",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"163","Camutanga",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"164","Camutanga",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"165","Camutanga",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"166","Camutanga",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"167","Camutanga",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"168","Camutanga",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"169","Camutanga",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"170","Camutanga",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"171","Camutanga",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"172","Camutanga",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"173","Camutanga",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"174","Camutanga",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"175","Camutanga",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"176","Camutanga",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"177","Camutanga",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"178","Camutanga",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"179","Camutanga",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"180","Camutanga",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"181","Caruaru",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"182","Caruaru",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"183","Caruaru",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"184","Caruaru",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"185","Caruaru",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"186","Caruaru",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"187","Caruaru",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"188","Caruaru",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"189","Caruaru",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"190","Caruaru",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"191","Caruaru",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"192","Caruaru",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"193","Caruaru",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"194","Caruaru",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"195","Caruaru",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"196","Caruaru",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"197","Caruaru",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"198","Caruaru",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"199","Caruaru",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"200","Caruaru",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"201","Caruaru",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"202","Caruaru",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"203","Caruaru",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"204","Caruaru",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"205","Caruaru",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"206","Caruaru",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"207","Caruaru",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"208","Caruaru",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"209","Caruaru",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"210","Caruaru",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"211","Cedro",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"212","Cedro",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"213","Cedro",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"214","Cedro",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"215","Cedro",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"216","Cedro",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"217","Cedro",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"218","Cedro",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"219","Cedro",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"220","Cedro",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"221","Cedro",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"222","Cedro",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"223","Cedro",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"224","Cedro",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"225","Cedro",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"226","Cedro",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"227","Cedro",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"228","Cedro",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"229","Cedro",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"230","Cedro",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"231","Cedro",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"232","Cedro",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"233","Cedro",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"234","Cedro",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"235","Cedro",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"236","Cedro",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"237","Cedro",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"238","Cedro",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"239","Cedro",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"240","Cedro",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"241","Floresta",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"242","Floresta",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"243","Floresta",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"244","Floresta",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"245","Floresta",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"246","Floresta",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"247","Floresta",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"248","Floresta",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"249","Floresta",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"250","Floresta",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"251","Floresta",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"252","Floresta",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"253","Floresta",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"254","Floresta",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"255","Floresta",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"256","Floresta",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"257","Floresta",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"258","Floresta",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"259","Floresta",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"260","Floresta",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"261","Floresta",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"262","Floresta",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"263","Floresta",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"264","Floresta",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"265","Floresta",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"266","Floresta",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"267","Floresta",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"268","Floresta",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"269","Floresta",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"270","Floresta",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"271","Garanhuns",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"272","Garanhuns",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"273","Garanhuns",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"274","Garanhuns",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"275","Garanhuns",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"276","Garanhuns",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"277","Garanhuns",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"278","Garanhuns",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"279","Garanhuns",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"280","Garanhuns",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"281","Garanhuns",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"282","Garanhuns",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"283","Garanhuns",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"284","Garanhuns",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"285","Garanhuns",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"286","Garanhuns",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"287","Garanhuns",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"288","Garanhuns",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"289","Garanhuns",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"290","Garanhuns",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"291","Garanhuns",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"292","Garanhuns",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"293","Garanhuns",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"294","Garanhuns",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"295","Garanhuns",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"296","Garanhuns",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"297","Garanhuns",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"298","Garanhuns",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"299","Garanhuns",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"300","Garanhuns",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"301","Igarassu",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"302","Igarassu",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"303","Igarassu",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"304","Igarassu",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"305","Igarassu",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"306","Igarassu",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"307","Igarassu",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"308","Igarassu",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"309","Igarassu",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"310","Igarassu",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"311","Igarassu",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"312","Igarassu",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"313","Igarassu",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"314","Igarassu",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"315","Igarassu",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"316","Igarassu",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"317","Igarassu",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"318","Igarassu",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"319","Igarassu",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"320","Igarassu",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"321","Igarassu",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"322","Igarassu",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"323","Igarassu",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"324","Igarassu",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"325","Igarassu",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"326","Igarassu",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"327","Igarassu",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"328","Igarassu",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"329","Igarassu",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"330","Igarassu",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"331","Ingazeira",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"332","Ingazeira",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"333","Ingazeira",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"334","Ingazeira",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"335","Ingazeira",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"336","Ingazeira",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"337","Ingazeira",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"338","Ingazeira",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"339","Ingazeira",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"340","Ingazeira",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"341","Ingazeira",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"342","Ingazeira",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"343","Ingazeira",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"344","Ingazeira",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"345","Ingazeira",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"346","Ingazeira",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"347","Ingazeira",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"348","Ingazeira",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"349","Ingazeira",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"350","Ingazeira",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"351","Ingazeira",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"352","Ingazeira",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"353","Ingazeira",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"354","Ingazeira",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"355","Ingazeira",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"356","Ingazeira",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"357","Ingazeira",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"358","Ingazeira",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"359","Ingazeira",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"360","Ingazeira",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"361","Jaboatão dos Guararapes",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"362","Jaboatão dos Guararapes",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"363","Jaboatão dos Guararapes",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"364","Jaboatão dos Guararapes",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"365","Jaboatão dos Guararapes",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"366","Jaboatão dos Guararapes",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"367","Jaboatão dos Guararapes",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"368","Jaboatão dos Guararapes",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"369","Jaboatão dos Guararapes",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"370","Jaboatão dos Guararapes",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"371","Jaboatão dos Guararapes",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"372","Jaboatão dos Guararapes",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"373","Jaboatão dos Guararapes",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"374","Jaboatão dos Guararapes",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"375","Jaboatão dos Guararapes",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"376","Jaboatão dos Guararapes",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"377","Jaboatão dos Guararapes",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"378","Jaboatão dos Guararapes",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"379","Jaboatão dos Guararapes",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"380","Jaboatão dos Guararapes",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"381","Jaboatão dos Guararapes",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"382","Jaboatão dos Guararapes",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"383","Jaboatão dos Guararapes",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"384","Jaboatão dos Guararapes",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"385","Jaboatão dos Guararapes",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"386","Jaboatão dos Guararapes",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"387","Jaboatão dos Guararapes",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"388","Jaboatão dos Guararapes",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"389","Jaboatão dos Guararapes",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"390","Jaboatão dos Guararapes",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"391","Lajedo",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"392","Lajedo",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"393","Lajedo",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"394","Lajedo",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"395","Lajedo",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"396","Lajedo",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"397","Lajedo",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"398","Lajedo",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"399","Lajedo",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"400","Lajedo",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"401","Lajedo",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"402","Lajedo",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"403","Lajedo",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"404","Lajedo",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"405","Lajedo",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"406","Lajedo",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"407","Lajedo",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"408","Lajedo",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"409","Lajedo",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"410","Lajedo",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"411","Lajedo",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"412","Lajedo",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"413","Lajedo",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"414","Lajedo",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"415","Lajedo",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"416","Lajedo",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"417","Lajedo",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"418","Lajedo",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"419","Lajedo",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"420","Lajedo",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"421","Moreno",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"422","Moreno",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"423","Moreno",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"424","Moreno",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"425","Moreno",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"426","Moreno",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"427","Moreno",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"428","Moreno",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"429","Moreno",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"430","Moreno",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"431","Moreno",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"432","Moreno",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"433","Moreno",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"434","Moreno",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"435","Moreno",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"436","Moreno",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"437","Moreno",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"438","Moreno",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"439","Moreno",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"440","Moreno",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"441","Moreno",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"442","Moreno",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"443","Moreno",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"444","Moreno",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"445","Moreno",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"446","Moreno",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"447","Moreno",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"448","Moreno",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"449","Moreno",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"450","Moreno",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"451","Petrolina",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"452","Petrolina",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"453","Petrolina",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"454","Petrolina",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"455","Petrolina",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"456","Petrolina",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"457","Petrolina",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"458","Petrolina",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"459","Petrolina",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"460","Petrolina",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"461","Petrolina",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"462","Petrolina",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"463","Petrolina",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"464","Petrolina",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"465","Petrolina",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"466","Petrolina",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"467","Petrolina",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"468","Petrolina",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"469","Petrolina",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"470","Petrolina",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"471","Petrolina",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"472","Petrolina",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"473","Petrolina",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"474","Petrolina",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"475","Petrolina",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"476","Petrolina",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"477","Petrolina",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"478","Petrolina",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"479","Petrolina",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"480","Petrolina",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"481","Quixaba",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"482","Quixaba",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"483","Quixaba",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"484","Quixaba",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"485","Quixaba",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"486","Quixaba",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"487","Quixaba",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"488","Quixaba",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"489","Quixaba",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"490","Quixaba",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"491","Quixaba",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"492","Quixaba",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"493","Quixaba",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"494","Quixaba",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"495","Quixaba",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"496","Quixaba",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"497","Quixaba",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"498","Quixaba",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"499","Quixaba",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"500","Quixaba",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"501","Quixaba",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"502","Quixaba",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"503","Quixaba",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"504","Quixaba",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"505","Quixaba",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"506","Quixaba",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"507","Quixaba",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"508","Quixaba",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"509","Quixaba",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"510","Quixaba",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"511","Recife",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"512","Recife",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"513","Recife",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"514","Recife",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"515","Recife",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"516","Recife",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"517","Recife",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"518","Recife",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"519","Recife",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"520","Recife",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"521","Recife",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"522","Recife",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"523","Recife",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"524","Recife",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"525","Recife",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"526","Recife",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"527","Recife",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"528","Recife",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"529","Recife",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"530","Recife",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"531","Recife",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"532","Recife",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"533","Recife",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"534","Recife",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"535","Recife",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"536","Recife",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"537","Recife",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"538","Recife",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"539","Recife",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"540","Recife",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"541","Santa Maria do Cambucá",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"542","Santa Maria do Cambucá",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"543","Santa Maria do Cambucá",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"544","Santa Maria do Cambucá",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"545","Santa Maria do Cambucá",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"546","Santa Maria do Cambucá",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"547","Santa Maria do Cambucá",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"548","Santa Maria do Cambucá",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"549","Santa Maria do Cambucá",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"550","Santa Maria do Cambucá",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"551","Santa Maria do Cambucá",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"552","Santa Maria do Cambucá",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"553","Santa Maria do Cambucá",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"554","Santa Maria do Cambucá",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"555","Santa Maria do Cambucá",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"556","Santa Maria do Cambucá",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"557","Santa Maria do Cambucá",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"558","Santa Maria do Cambucá",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"559","Santa Maria do Cambucá",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"560","Santa Maria do Cambucá",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"561","Santa Maria do Cambucá",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"562","Santa Maria do Cambucá",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"563","Santa Maria do Cambucá",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"564","Santa Maria do Cambucá",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"565","Santa Maria do Cambucá",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"566","Santa Maria do Cambucá",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"567","Santa Maria do Cambucá",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"568","Santa Maria do Cambucá",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"569","Santa Maria do Cambucá",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"570","Santa Maria do Cambucá",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"571","São Lourenço da Mata",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"572","São Lourenço da Mata",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"573","São Lourenço da Mata",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"574","São Lourenço da Mata",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"575","São Lourenço da Mata",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"576","São Lourenço da Mata",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"577","São Lourenço da Mata",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"578","São Lourenço da Mata",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"579","São Lourenço da Mata",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"580","São Lourenço da Mata",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"581","São Lourenço da Mata",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"582","São Lourenço da Mata",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"583","São Lourenço da Mata",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"584","São Lourenço da Mata",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"585","São Lourenço da Mata",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"586","São Lourenço da Mata",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"587","São Lourenço da Mata",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"588","São Lourenço da Mata",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"589","São Lourenço da Mata",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"590","São Lourenço da Mata",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"591","São Lourenço da Mata",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"592","São Lourenço da Mata",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"593","São Lourenço da Mata",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"594","São Lourenço da Mata",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"595","São Lourenço da Mata",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"596","São Lourenço da Mata",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"597","São Lourenço da Mata",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"598","São Lourenço da Mata",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"599","São Lourenço da Mata",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"600","São Lourenço da Mata",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"601","São Vicente Férrer",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"602","São Vicente Férrer",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"603","São Vicente Férrer",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"604","São Vicente Férrer",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"605","São Vicente Férrer",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"606","São Vicente Férrer",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"607","São Vicente Férrer",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"608","São Vicente Férrer",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"609","São Vicente Férrer",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"610","São Vicente Férrer",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"611","São Vicente Férrer",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"612","São Vicente Férrer",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"613","São Vicente Férrer",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"614","São Vicente Férrer",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"615","São Vicente Férrer",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"616","São Vicente Férrer",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"617","São Vicente Férrer",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"618","São Vicente Férrer",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"619","São Vicente Férrer",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"620","São Vicente Férrer",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"621","São Vicente Férrer",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"622","São Vicente Férrer",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"623","São Vicente Férrer",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"624","São Vicente Férrer",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"625","São Vicente Férrer",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"626","São Vicente Férrer",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"627","São Vicente Férrer",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"628","São Vicente Férrer",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"629","São Vicente Férrer",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"630","São Vicente Férrer",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"631","Serra Talhada",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"632","Serra Talhada",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"633","Serra Talhada",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"634","Serra Talhada",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"635","Serra Talhada",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"636","Serra Talhada",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"637","Serra Talhada",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"638","Serra Talhada",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"639","Serra Talhada",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"640","Serra Talhada",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"641","Serra Talhada",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"642","Serra Talhada",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"643","Serra Talhada",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"644","Serra Talhada",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"645","Serra Talhada",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"646","Serra Talhada",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"647","Serra Talhada",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"648","Serra Talhada",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"649","Serra Talhada",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"650","Serra Talhada",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"651","Serra Talhada",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"652","Serra Talhada",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"653","Serra Talhada",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"654","Serra Talhada",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"655","Serra Talhada",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"656","Serra Talhada",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"657","Serra Talhada",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"658","Serra Talhada",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"659","Serra Talhada",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"660","Serra Talhada",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"661","Serrita",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"662","Serrita",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"663","Serrita",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"664","Serrita",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"665","Serrita",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"666","Serrita",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"667","Serrita",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"668","Serrita",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"669","Serrita",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"670","Serrita",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"671","Serrita",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"672","Serrita",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"673","Serrita",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"674","Serrita",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"675","Serrita",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"676","Serrita",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"677","Serrita",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"678","Serrita",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"679","Serrita",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"680","Serrita",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"681","Serrita",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"682","Serrita",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"683","Serrita",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"684","Serrita",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"685","Serrita",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"686","Serrita",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"687","Serrita",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"688","Serrita",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"689","Serrita",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"690","Serrita",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"691","Toritama",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"692","Toritama",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"693","Toritama",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"694","Toritama",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"695","Toritama",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"696","Toritama",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"697","Toritama",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"698","Toritama",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"699","Toritama",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"700","Toritama",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"701","Toritama",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"702","Toritama",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"703","Toritama",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"704","Toritama",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"705","Toritama",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"706","Toritama",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"707","Toritama",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"708","Toritama",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"709","Toritama",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"710","Toritama",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"711","Toritama",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"712","Toritama",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"713","Toritama",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"714","Toritama",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"715","Toritama",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"716","Toritama",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"717","Toritama",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"718","Toritama",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"719","Toritama",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"720","Toritama",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"721","Vitória de Santo Antão",1,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"722","Vitória de Santo Antão",2,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"723","Vitória de Santo Antão",3,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"724","Vitória de Santo Antão",4,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"725","Vitória de Santo Antão",5,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"726","Vitória de Santo Antão",6,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"727","Vitória de Santo Antão",7,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"728","Vitória de Santo Antão",8,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"729","Vitória de Santo Antão",9,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"730","Vitória de Santo Antão",10,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"731","Vitória de Santo Antão",11,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"732","Vitória de Santo Antão",12,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"733","Vitória de Santo Antão",13,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"734","Vitória de Santo Antão",14,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"735","Vitória de Santo Antão",15,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"736","Vitória de Santo Antão",16,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"737","Vitória de Santo Antão",17,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"738","Vitória de Santo Antão",18,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"739","Vitória de Santo Antão",19,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"740","Vitória de Santo Antão",20,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"741","Vitória de Santo Antão",21,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"742","Vitória de Santo Antão",22,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"743","Vitória de Santo Antão",23,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"744","Vitória de Santo Antão",24,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"745","Vitória de Santo Antão",25,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"746","Vitória de Santo Antão",26,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"747","Vitória de Santo Antão",27,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"748","Vitória de Santo Antão",28,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"749","Vitória de Santo Antão",29,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"750","Vitória de Santo Antão",30,0,0,0,0,0,0,0,0,NA,NA,NA,NA

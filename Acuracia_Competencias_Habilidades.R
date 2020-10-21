@@ -5,122 +5,113 @@ require(dplyr)
 require(tidyr)
 require(readr)
 
-?read_csv
-setwd(dirname(rstudioapi::getSourceEditorContext()$path))
-
-##### COLUNAS #####
-cols_to_read = c(
-  "NO_MUNICIPIO_RESIDENCIA",
-  "CO_PROVA_CN",
-  "CO_PROVA_CH",
-  "CO_PROVA_LC",
-  "CO_PROVA_MT",
-  "TX_RESPOSTAS_CN",
-  "TX_RESPOSTAS_CH",
-  "TX_RESPOSTAS_LC",
-  "TX_RESPOSTAS_MT",
-  "TX_GABARITO_CN",
-  "TX_GABARITO_CH",
-  "TX_GABARITO_LC",
-  "TX_GABARITO_MT"
-)
-
-##### LEITURA #####
-?read_delim
-microdados_file <- "./datasets_2016_2019_pernambuco/MICRODADOS_ENEM_2016_PE.csv"
-input_data_file <- "./datasets_2016_2019_pernambuco/ITENS_PROVA_2016.csv"
-microdados <- read_csv(microdados_file, col_types = cols())
-itens_prova <- read_csv2(input_data_file, col_types = cols())
-microdados <- microdados[cols_to_read]
-
-#pegando os candidados por municipio
-municipio <- "Recife" 
-candidatos_cidade <- microdados %>% filter(NO_MUNICIPIO_RESIDENCIA == municipio)
-
-##### CALCULOS RELACIONADOS A HABILIDADES POR MUNICIPIO #####
-
-
 calular_acuracia <- function(lista_candidados) {
   habilidades <- data.frame(
+    "nome_municipio"=rep("",30),
+    "num_habilidade"=c(1:30),
     "ch.total"=rep(0, 30),
-    "ch.acertos"=rep(0, 30),
     "lc.total"=rep(0, 30),
-    "lc.acertos"=rep(0, 30),
     "mt.total"=rep(0, 30),
-    "mt.acertos"=rep(0, 30),
     "cn.total"=rep(0, 30),
+    "ch.acertos"=rep(0, 30),
+    "lc.acertos"=rep(0, 30),
+    "mt.acertos"=rep(0, 30),
     "cn.acertos"=rep(0, 30)
   )
-  
-  
-  for(i in 1:nrow(candidatos_cidade)) {
-    candidato <- candidatos_cidade[i,]
-    
-    gabarito <- unlist(strsplit(candidato$TX_GABARITO_CH, ''))
-    respostas <- unlist(strsplit(candidato$TX_RESPOSTAS_CH, ''))
-    codigo_prova <- candidato$CO_PROVA_CH
-    
-    for(j in 1:length(respostas)) {
-      habilidade <- itens_prova %>% filter(CO_PROVA == codigo_prova & CO_POSICAO == j)
-      index <- habilidade$CO_HABILIDADE
-      habilidades$ch.total[index] <- habilidades$ch.total[index] + 1
-      if(respostas[j] == gabarito[j]) {
-        habilidades$ch.acertos[index] <- habilidades$ch.acertos[index] + 1
-      }
-    }
-    
-    gabarito <- unlist(strsplit(candidato$TX_GABARITO_LC, ''))
-    respostas <- unlist(strsplit(candidato$TX_RESPOSTAS_LC, ''))
-    codigo_prova <- candidato$CO_PROVA_LC
-    
-    for(j in 1:length(respostas)) {
-      habilidade <- itens_prova %>% filter(CO_PROVA == codigo_prova & CO_POSICAO == j)
-      index <- habilidade$CO_HABILIDADE
-      habilidades$lc.total[index] <- habilidades$lc.total[index] + 1
-      if(respostas[j] == gabarito[j]) {
-        habilidades$lc.acertos[index] <- habilidades$lc.acertos[index] + 1
-      }
-    }
-    
-    gabarito <- unlist(strsplit(candidato$TX_GABARITO_MT, ''))
-    respostas <- unlist(strsplit(candidato$TX_RESPOSTAS_MT, ''))
-    codigo_prova <- candidato$CO_PROVA_MT
-    
-    for(j in 1:length(respostas)) {
-      habilidade <- itens_prova %>% filter(CO_PROVA == codigo_prova & CO_POSICAO == j)
-      index <- habilidade$CO_HABILIDADE
-      habilidades$mt.total[index] <- habilidades$mt.total[index] + 1
-      if(respostas[j] == gabarito[j]) {
-        habilidades$mt.acertos[index] <- habilidades$mt.acertos[index] + 1
-      }
-    }
-    
-    gabarito <- unlist(strsplit(candidato$TX_GABARITO_CN, ''))
-    respostas <- unlist(strsplit(candidato$TX_RESPOSTAS_CN, ''))
-    codigo_prova <- candidato$CO_PROVA_CN
-    
-    for(j in 1:length(respostas)) {
-      habilidade <- itens_prova %>% filter(CO_PROVA == codigo_prova & CO_POSICAO == j)
-      index <- habilidade$CO_HABILIDADE
-      habilidades$cn.total[index] <- habilidades$cn.total[index] + 1
-      if(respostas[j] == gabarito[j]) {
-        habilidades$cn.acertos[index] <- habilidades$cn.acertos[index] + 1
+  for(i in 1:nrow(lista_candidados)) {
+    candidato <- lista_candidados[i,]
+    for(tipo_prova in c("CH","CN","MT","LC")) {
+      aux <- paste("TX_GABARITO_",tipo_prova,sep = '')
+      gabarito <- unlist(strsplit(paste(candidato[,aux]), ''))
+      aux <- paste("TX_RESPOSTAS_",tipo_prova,sep = '')
+      respostas <- unlist(strsplit(paste(candidato[,aux]), ''))
+      aux <- paste("CO_PROVA_",tipo_prova,sep = '')
+      codigo_prova <- as.numeric(candidato[,aux])
+      for(j in 1:length(respostas)) {
+        habilidade <- itens_prova %>% filter(CO_PROVA == codigo_prova & CO_POSICAO == j)
+        index <- habilidade$CO_HABILIDADE
+        aux <- paste(tolower(tipo_prova), ".total",sep = '')
+        habilidades[,aux][index] <- habilidades[,aux][index] + 1
+        if(respostas[j] == gabarito[j]) {
+          aux <- paste(tolower(tipo_prova), ".acertos",sep = '')
+          habilidades[,aux][index] <- habilidades[,aux][index] + 1
+        }
       }
     }
   }
-  
   return(habilidades)
 }
 
-##### CALCULANDO ACURACIA POR HABILIDADE ####
 
-candidatos_cidade <- candidatos_cidade[1:10,]
+calcular_acuracia_municipios <- function(pathMicrodados, pathItensProva) {
+  cols_to_read = c(
+    "NO_MUNICIPIO_RESIDENCIA",
+    "CO_PROVA_CN","CO_PROVA_CH",
+    "CO_PROVA_LC","CO_PROVA_MT",
+    "TX_RESPOSTAS_CN","TX_RESPOSTAS_CH",
+    "TX_RESPOSTAS_LC","TX_RESPOSTAS_MT",
+    "TX_GABARITO_CN","TX_GABARITO_CH",
+    "TX_GABARITO_LC","TX_GABARITO_MT"
+  )
+  
+  setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+  
+  itens_prova <- read_csv2(pathItensProva, col_types = cols())
+  microdados <- read_csv(pathMicrodados, col_types = cols())
+  microdados <- microdados[cols_to_read]
+  
+  #microdados <- microdados[1:50,]
+  
+  microdados$NO_MUNICIPIO_RESIDENCIA <- as.factor(microdados$NO_MUNICIPIO_RESIDENCIA)
+  acuracia_municipios <- data.frame()
 
-habilidades <- calular_acuracia(candidatos_cidade)
+  primeiraIteracao <- TRUE
+  for(municipio_atual in levels(microdados$NO_MUNICIPIO_RESIDENCIA)) {
+    candidatos <- microdados %>% filter(NO_MUNICIPIO_RESIDENCIA == municipio_atual)
+    acuracia_municipio_atual <- calular_acuracia(candidatos)
+    acuracia_municipio_atual$nome_municipio <- municipio_atual
+    acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(ch.acuracia=ch.acertos/ch.total)
+    acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(lc.acuracia=lc.acertos/lc.total)
+    acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(mt.acuracia=mt.acertos/mt.total)
+    acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(cn.acuracia=cn.acertos/cn.total)
+    if(primeiraIteracao) {
+      primeiraIteracao <- FALSE
+      acuracia_municipios <- acuracia_municipio_atual
+    } else {
+      acuracia_municipios <- rbind(acuracia_municipios, acuracia_municipio_atual)
+    }
+  }
+  
+  return(acuracia_municipios)
+}
 
-habilidades <- habilidades %>% mutate(ch.acuracia=ch.acertos/ch.total)
-habilidades <- habilidades %>% mutate(lc.acuracia=lc.acertos/lc.total)
-habilidades <- habilidades %>% mutate(mt.acuracia=mt.acertos/mt.total)
-habilidades <- habilidades %>% mutate(cn.acuracia=cn.acertos/cn.total)
+files <- data.frame(
+  "microdados"=c(
+    "MICRODADOS_ENEM_2016_PE.csv",
+    "MICRODADOS_ENEM_2017_PE.csv",
+    "MICRODADOS_ENEM_2018_PE.csv",
+    "MICRODADOS_ENEM_2019_PE.csv"
+  ),
+  "itens_prova"=c(
+    "ITENS_PROVA_2016.csv",
+    "ITENS_PROVA_2017.csv",
+    "ITENS_PROVA_2018.csv",
+    "ITENS_PROVA_2019.csv"
+  )
+)
 
-habilidades %>% select(ch.acuracia, lc.acuracia, mt.acuracia, cn.acuracia)
+ano <- 2016
+for(i in c(1:4)) {
+  pathDir <- "./datasets_2016_2019_pernambuco/"
+  pathItensProva <- paste(pathDir, files$itens_prova[i], sep = '')
+  pathMicrodados <- paste(pathDir, files$microdados[i], sep = '')
+  acuracia_municipios <- calcular_acuracia_municipios(pathMicrodados, pathItensProva)
+  output_file <- paste(
+    "./datasets_2016_2019_pernambuco/",
+    "ACURACIA_COMPETENCIAS_HABILIDADES_", 
+    ano,".csv", sep = '')
+  write.csv(acuracia_municipios, output_file)
+  ano <- ano + 1
+}
+
+
