@@ -5,7 +5,7 @@ require(dplyr)
 require(tidyr)
 require(readr)
 
-calular_acuracia <- function(lista_candidados) {
+calular_acuracia <- function(lista_candidados, itens_prova) {
   habilidades <- data.frame(
     "nome_municipio"=rep("",30),
     "num_habilidade"=c(1:30),
@@ -60,7 +60,7 @@ calcular_acuracia_municipios <- function(pathMicrodados, pathItensProva) {
   microdados <- read_csv(pathMicrodados, col_types = cols())
   microdados <- microdados[cols_to_read]
   
-  #microdados <- microdados[1:50,]
+  microdados <- microdados[1:50,]
   
   microdados$NO_MUNICIPIO_RESIDENCIA <- as.factor(microdados$NO_MUNICIPIO_RESIDENCIA)
   acuracia_municipios <- data.frame()
@@ -68,7 +68,7 @@ calcular_acuracia_municipios <- function(pathMicrodados, pathItensProva) {
   primeiraIteracao <- TRUE
   for(municipio_atual in levels(microdados$NO_MUNICIPIO_RESIDENCIA)) {
     candidatos <- microdados %>% filter(NO_MUNICIPIO_RESIDENCIA == municipio_atual)
-    acuracia_municipio_atual <- calular_acuracia(candidatos)
+    acuracia_municipio_atual <- calular_acuracia(candidatos, itens_prova)
     acuracia_municipio_atual$nome_municipio <- municipio_atual
     acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(ch.acuracia=ch.acertos/ch.total)
     acuracia_municipio_atual <- acuracia_municipio_atual %>% mutate(lc.acuracia=lc.acertos/lc.total)
@@ -86,13 +86,13 @@ calcular_acuracia_municipios <- function(pathMicrodados, pathItensProva) {
 }
 
 files <- data.frame(
-  "microdados"=c(
+  microdados=c(
     "MICRODADOS_ENEM_2016_PE.csv",
     "MICRODADOS_ENEM_2017_PE.csv",
     "MICRODADOS_ENEM_2018_PE.csv",
     "MICRODADOS_ENEM_2019_PE.csv"
   ),
-  "itens_prova"=c(
+  itens_prova=c(
     "ITENS_PROVA_2016.csv",
     "ITENS_PROVA_2017.csv",
     "ITENS_PROVA_2018.csv",
