@@ -11,8 +11,7 @@ calcular_notas_numero_acertos <- function(pathMicrodados) {
     "TX_GABARITO_CN","TX_GABARITO_CH","TX_GABARITO_LC","TX_GABARITO_MT"
   )
   
-  chunkSize <- 30
-  microdados <- read.csv(pathMicrodados, nrows=chunkSize,  fill=TRUE, na.strings = T, sep=",")
+  microdados <- read.csv(pathMicrodados,  fill=TRUE, na.strings = T, sep=",")
   microdados <- microdados[accepted_columns]
   
   microdados$ACERTOS_CH <- rep(0, nrow(microdados))
@@ -56,15 +55,23 @@ files <- data.frame(
   "MICRODADOS_ENEM_2019_PE.csv"
 )
 
-ano <- 2016
-for(i in c(1:4)) {
-  pathDir <- "./datasets_2016_2019_pernambuco/"
-  pathMicrodados <- paste(pathDir, files[i], sep = '')
-  microdados_out <- calcular_notas_numero_acertos(pathMicrodados)
-  output_file <- paste(
-    "./datasets_2016_2019_pernambuco/",
-    "NOTAS_E_NUMERO_DE_ACERTOS_",
-    ano,".csv", sep = '')
-  write.csv(microdados_out, output_file)
-  ano <- ano + 1
-}
+# ano <- 2016
+# for(i in c(1:4)) {
+#   pathDir <- "./datasets_2016_2019_pernambuco/"
+#   pathMicrodados <- paste(pathDir, files[i], sep = '')
+#   microdados_out <- calcular_notas_numero_acertos(pathMicrodados)
+#   output_file <- paste(
+#     "./datasets_2016_2019_pernambuco/",
+#     "NOTAS_E_NUMERO_DE_ACERTOS_",
+#     ano,".csv", sep = '')
+#   write.csv(microdados_out, output_file)
+#   ano <- ano + 1
+# }
+
+pathDir <- "./datasets_2016_2019_pernambuco/"
+pathMicrodados <- paste(pathDir, files[4], sep = '')
+microdados_out <- calcular_notas_numero_acertos(pathMicrodados)
+output_file <- paste(
+  "./datasets_2016_2019_pernambuco/",
+  "NOTAS_E_NUMERO_DE_ACERTOS_2019",".csv", sep = '')
+write.csv(microdados_out, output_file)

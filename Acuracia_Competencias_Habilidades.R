@@ -60,7 +60,7 @@ calcular_acuracia_municipios <- function(pathMicrodados, pathItensProva) {
   microdados <- read_csv(pathMicrodados, col_types = cols())
   microdados <- microdados[cols_to_read]
   
-  microdados <- microdados[1:50,]
+  #microdados <- microdados[1:50,]
   
   microdados$NO_MUNICIPIO_RESIDENCIA <- as.factor(microdados$NO_MUNICIPIO_RESIDENCIA)
   acuracia_municipios <- data.frame()
